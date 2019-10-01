@@ -1,4 +1,4 @@
-# Game Review for Super Mario 4
+# Game Review for Super Mario Party
 
 ## Details
 Super Mario Party was developed and published by Nintendo.
